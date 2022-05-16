@@ -7,7 +7,9 @@
 - Google Sheets
 - Git, Docker (basic)
 
-<!--🎓  My Certificates-->
+🎓  My Certificates
+- [Basic Python](https://stepik.org/cert/1498730)
+- [Basic SQL](https://stepik.org/cert/1431666)
 
 💬 Contacts
 - Telegram: @proshlil
