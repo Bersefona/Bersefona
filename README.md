@@ -12,6 +12,6 @@
 - [Basic SQL](https://stepik.org/cert/1431666)
 
 💬 Contacts
-- Telegram: [@proshlil](https://t.me/@proshlil)
+- Telegram: [@proshlil](https://t.me/proshlil)
 - E-mail: [prosh-liliya@mail.ru](mailto:prosh-liliya@mail.ru)
 
